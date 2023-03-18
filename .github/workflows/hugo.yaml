@@ -44,8 +44,6 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-      - name: Install PostCSS-CLI
-        run: "npm install postcss-cli"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3

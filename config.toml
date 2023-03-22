@@ -3,7 +3,7 @@ metaDataFormat = "yaml"
 title = "Blist Multilingual Theme"
 theme = "blist"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 DefaultContentLanguageInSubdir = true
 [languages]
   [languages.en]
@@ -39,11 +39,11 @@ DefaultContentLanguageInSubdir = true
     contentDir = "content/de" # Deutsch
     weight = 2
     languageName = "Deutsch"
-    title = "Blist (mehrsprachig)"
-    description = "Modernes Blog-Theme für Ihre Hugo-Site."
+    title = "Joy Music"
+    description = "Enjoy music"
     [languages.de.params]
-      introTitle = "Hallo, ich bin Katheryn Fox"
-      introSubtitle = "26-jährige Junior-Entwicklerin, die Spaß an sozialen Kartenspielen, Bloggen und Malen hat"
+      introTitle = "☀️🎶"
+      introSubtitle = "Die Welt der Musik"
       introPhoto = "/picture.jpg"
       logo = "/blist-logo-de.png"
     [[languages.de.menu.main]]

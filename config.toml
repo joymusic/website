@@ -1,4 +1,4 @@
-baseurl = "https://joymusic.github.io/website"
+baseurl = "https://joymusic.github.io"
 metaDataFormat = "yaml"
 title = "Joy Music"
 theme = "blist"

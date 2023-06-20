@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "☀️🎶"
       introSubtitle = "The world of music"
       introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
+      logo = "/joy-music-logo.png"
     [[languages.en.menu.main]]
         name = "Instruments"
         url = "instrument"
@@ -35,7 +35,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "☀️🎶"
       introSubtitle = "Die Welt der Musik"
       introPhoto = "/picture.jpg"
-      logo = "/blist-logo-de.png"
+      logo = "/blist-logo.png"
     [[languages.de.menu.main]]
         name = "Instrumente"
         url = "instrument"
@@ -54,7 +54,7 @@ DefaultContentLanguageInSubdir = true
 #      introTitle = "☀️🎶"
 #      introSubtitle = "Développeuse junior de 26 ans qui adore les jeux de société, le blogging et la peinture"
 #      introPhoto = "/picture.jpg"
-#      logo = "/blist-logo.png"
+#      logo = "/joy-music.png"
 #    [[languages.fr.menu.main]]
 #        name = "Blog"
 #        url = "blog"

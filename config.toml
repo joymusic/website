@@ -35,7 +35,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "☀️🎶"
       introSubtitle = "Die Welt der Musik"
       introPhoto = "/picture.jpg"
-      logo = "/blist-logo.png"
+      logo = "/joy-music-logo.png"
     [[languages.de.menu.main]]
         name = "Instrumente"
         url = "instrument"
